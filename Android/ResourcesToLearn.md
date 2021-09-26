@@ -19,3 +19,8 @@
     - [Link](https://www.youtube.com/playlist?list=PLknSwrodgQ72X4sKpzf5vT8kY80HKcUSe)   (Language used - English)
     - [Link](https://www.youtube.com/playlist?list=PLUhfM8afLE_Ok-0Lx2v9hfrmbxi3GgsX1)   (Language used - Hindi)
        
+- Github [UltimateAndroidResource](https://github.com/aritraroy/UltimateAndroidReference.githttps://github.com/aritraroy/UltimateAndroidReference.git)
+
+-GoTo youtube channels for Android:
+	- Philip Lackner
+	- Coding in Flow
