@@ -21,6 +21,6 @@
        
 - Github [UltimateAndroidResource](https://github.com/aritraroy/UltimateAndroidReference.githttps://github.com/aritraroy/UltimateAndroidReference.git)
 
--GoTo youtube channels for Android:
+- GoTo youtube channels for Android:
 	- Philip Lackner
 	- Coding in Flow
