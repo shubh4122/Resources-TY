@@ -1,6 +1,6 @@
 # Below are the places where you can learn CP related Stuff:
 
-- [CodeChef Blog - Contains:](https://codeforces.com/blog/entry/95106)
+- [Codeforces Blog - Contains:](https://codeforces.com/blog/entry/95106)
   - Resources to study a particular Concept
   - A question on it
   - Its solution and Level of difficulty
