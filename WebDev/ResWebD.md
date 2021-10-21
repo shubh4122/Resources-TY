@@ -3,4 +3,46 @@
 - [FreeCodeCamp](https://www.freecodecamp.org/)
 - Complete RoadMap including Frontend, Backend, DevOps etc
   - [Github Repo](https://github.com/kamranahmedse/developer-roadmap.git)
-  - 
+- Ishan's List - Insightful
+  - [Video](https://youtu.be/0diu-fFRxaY)
+  - CSS Tricks: https://css-tricks.com/ 
+    - Has articles about CSS and Tricks. TO LEARN CSS
+  - Mozilla MDN: https://developer.mozilla.org/en-US/
+    - Has Every Thing about Frontend Web Dev. Great if One likes Written Material. Has practically everything
+  - w3 Schools: https://www.w3schools.com/
+    - As one knows Already :-)
+  - DEV.to: https://dev.to/
+    - Developer Community. Great Place to find Blogs/Articles about anything, Latest Techs. Quite useful!
+  - freecodecamp Website: https://www.freecodecamp.org/
+    - Again one already knows about it :-)
+  - freecodecamp YT: https://www.youtube.com/channel/UC8bu...
+    - Their YT channel. LONG Video lectures. Must CONSIDER this!!
+  - codepen.io: https://codepen.io/
+    - LIVE code Editor!!, Also you can search for certain tricks and see how they work!
+  - Brad Traversy: https://www.youtube.com/user/TechGuyWeb
+    - Quite Helpful, Got Projects too!
+  - Dev Ed: https://www.youtube.com/channel/UClb9...
+    - Design Stuff
+  - Web Dev Simplified: https://www.youtube.com/channel/UCFbN...
+  - Clever Programmer Livestreams: https://www.youtube.com/channel/UCqrI...
+    - LIVE streams, Making Projects, Building CLONES - Great way to learn
+  - Ania Kubow: https://www.youtube.com/channel/UC5DN...
+    - Creating Games using JS
+  - Andy Sterkowitz: https://www.youtube.com/channel/UCZ9q...
+    - For self-taught Devs. Talks of mindset one must have while learning, Efficiency
+  - Ben Awad: https://www.youtube.com/user/99baddawg
+    - Coding Interviews, Which is better?
+  - Front End Checklist: https://github.com/thedaviddias/Front...
+    - GITHUB REPO, How to make full Fledged Websites. GREAT RESOURCE!!
+  - Awesome-React: https://github.com/enaqx/awesome-react
+    - Same for Awesome-Angular, vue ....
+    - Has about small small parts of these frameworks as to how to do this and that.
+  - CS50 Web Dev: https://www.youtube.com/playlist?list...
+    - MUST MUST checkout. They(CS50) already do great Lectures!!. Must consider to start from here!!
+  - Fireship: https://www.youtube.com/channel/UCsBj...
+    - Techs to keep in mind when building an app/website!
+  - Kalle Hallden: https://www.youtube.com/channel/UCWr0...
+    - Productivity as a Developer. Vid like Self-Help + Coding
+  - Joshua Fluke: https://www.youtube.com/user/Tychos1
+    - Videos regarding "How do you get hired as a developer"
+- 
