@@ -7,15 +7,15 @@
   - [Video](https://youtu.be/0diu-fFRxaY)
   - CSS Tricks: https://css-tricks.com/ 
     - Has articles about CSS and Tricks. TO LEARN CSS
-  - Mozilla MDN: https://developer.mozilla.org/en-US/
+  - Mozilla MDN: https://developer.mozilla.org/en-US/ ⭐⭐
     - Has Every Thing about Frontend Web Dev. Great if One likes Written Material. Has practically everything
-  - w3 Schools: https://www.w3schools.com/
+  - w3 Schools: https://www.w3schools.com/ ⭐⭐
     - As one knows Already :-)
   - DEV.to: https://dev.to/
     - Developer Community. Great Place to find Blogs/Articles about anything, Latest Techs. Quite useful!
-  - freecodecamp Website: https://www.freecodecamp.org/
+  - freecodecamp Website: https://www.freecodecamp.org/ ⭐⭐
     - Again one already knows about it :-)
-  - freecodecamp YT: https://www.youtube.com/channel/UC8bu...
+  - freecodecamp YT: https://www.youtube.com/channel/UC8bu... ⭐⭐
     - Their YT channel. LONG Video lectures. Must CONSIDER this!!
   - codepen.io: https://codepen.io/
     - LIVE code Editor!!, Also you can search for certain tricks and see how they work!
@@ -37,7 +37,7 @@
   - Awesome-React: https://github.com/enaqx/awesome-react
     - Same for Awesome-Angular, vue ....
     - Has about small small parts of these frameworks as to how to do this and that.
-  - CS50 Web Dev: https://www.youtube.com/playlist?list...
+  - CS50 Web Dev: https://www.youtube.com/playlist?list... ⭐⭐
     - MUST MUST checkout. They(CS50) already do great Lectures!!. Must consider to start from here!!
   - Fireship: https://www.youtube.com/channel/UCsBj...
     - Techs to keep in mind when building an app/website!
